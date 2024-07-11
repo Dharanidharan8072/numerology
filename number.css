@@ -1,0 +1,30 @@
+body{
+    background-image: url('Numerology.jpg');
+    background-size: cover;
+    margin: 100px auto;
+}
+p{
+    color:rgb(18, 231, 231);
+
+}
+button {
+    background-color: rgb(156, 55, 169);
+}
+button:hover{
+    width: 52px;
+    height: 20px;
+    background-color: rgb(149, 231, 18);
+}
+h2{
+    color:rgba(22, 26, 241, 0.271)
+}
+input{
+    background-color:rgb(210, 25, 68)
+}
+input:hover{
+    background-color:rgb(142, 35, 120)
+}
+h3{
+    color: rgb(225, 137, 65);
+    margin: 100px 0px 0px 0px;
+}
